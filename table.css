@@ -1,0 +1,50 @@
+table{width: 100%;
+    height: 100%;
+}
+
+body{
+    height: 750px;
+}
+
+h1{text-align: center;
+margin: 0;}
+    
+        
+    .numero_atm{text-align: left;
+    }
+
+
+    .gases_nobres{background-color: #0f6eb8;
+    text-align: center;
+    border-radius: 20px;}
+    .halogenios{background-color: aqua;
+        text-align: center;
+        border-radius: 20px;}
+    .nao_metais{background-color: #5dc910;
+    text-align: center;
+    border-radius: 20px;}
+    .semimetais{background-color: #2c735a;
+    text-align: center;
+    border-radius: 20px;}
+    .outros_metais{background-color: #7cbed6;
+    text-align: center;
+    border-radius: 20px;}
+    .metais_de_tarnsição{background-color: salmon;
+    text-align: center;
+    border-radius: 20px;}
+    .terrosos{background-color: yellow;
+    text-align: center;
+border-radius: 20px;
+}
+.metais_alcalino{background-color: #bf7411;
+text-align: center;
+border-radius: 20px;}
+.lactanídeos{background-color: #5fe0fa;
+text-align: center;
+border-radius: 20px;}
+.actinídios{background-color: palevioletred;
+text-align: center;
+border-radius: 20px;}
+.Hidrogênio{background-color:rgb(160, 160, 160);
+    text-align:  center;
+    border-radius: 20px;}
